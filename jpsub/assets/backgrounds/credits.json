@@ -1,0 +1,53 @@
+{
+  "note": "背景照片均为真实摄影作品（非 AI 生成），来自维基共享资源 Wikimedia Commons；按各自 CC 授权使用，作者与来源见下。应用图标为程序绘制的图形，非 AI 生成。",
+  "files": {
+    "01-shinjuku-neon.jpg": {
+      "title": "新宿霓虹夜色（蓝色时刻）",
+      "artist": "Basile Morin",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Buildings_with_colorful_neon_street_signs_at_blue_hour,_Shinjuku,_Tokyo.jpg"
+    },
+    "02-shibuya-aerial.jpg": {
+      "title": "涩谷十字路口（俯瞰）",
+      "artist": "David Kernan",
+      "license": "CC BY 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Shibuya_Crossing,_Aerial.jpg"
+    },
+    "03-fuji-chureito.jpg": {
+      "title": "忠灵塔与富士山",
+      "artist": "Manishprabhune",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Chureito_Pagoda_and_Mount_Fuji.jpg"
+    },
+    "04-fushimi-torii.jpg": {
+      "title": "伏见稻荷千本鸟居",
+      "artist": "Basile Morin",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Double_torii_path_at_Fushimi_Inari_Taisha_Shrine,_Kyoto,_Japan.jpg"
+    },
+    "05-arashiyama-bamboo.jpg": {
+      "title": "岚山竹林小径",
+      "artist": "Mitchwandrew",
+      "license": "CC BY 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Arashiyama_Bamboo_Grove.jpg"
+    },
+    "06-tokyo-street.jpg": {
+      "title": "东京街头",
+      "artist": "Moyan Brenn",
+      "license": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Tokyo_(16228516431).jpg"
+    },
+    "07-sakura.jpg": {
+      "title": "樱花特写",
+      "artist": "Simon Launay",
+      "license": "CC0（公有领域贡献）",
+      "source": "https://commons.wikimedia.org/wiki/File:Cherry_Blossom_(Unsplash).jpg"
+    },
+    "08-kabukicho.jpg": {
+      "title": "歌舞伎町彩色霓虹楼面",
+      "artist": "Basile Morin",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Colorful_illuminated_facades_of_buildings_at_night,_with_green,_blue_and_pink_lights,_Kabukicho,_Shinjuku,_Tokyo.jpg"
+    }
+  }
+}

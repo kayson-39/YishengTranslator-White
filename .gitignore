@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+config.json
+*.log
+history/
+work/
+models/
+engine/
+runtime/
+.env*
+jpsub/assets/backgrounds/custom-*

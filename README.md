@@ -2,6 +2,10 @@
 
 免费的 Windows 实时字幕与翻译工具，由 Codex 协助开发与维护。支持系统声音和麦克风、日语识别、本地或 API 翻译、悬浮字幕、历史回看和自定义背景。
 
+## 下载
+
+到 [Releases](https://github.com/kayson-39/YishengTranslator-White/releases/latest) 下载 Windows x64 安装器 `YishengTranslator-White-0.10.2-Setup.exe`，校验值见同一页的 `SHA256SUMS.txt`。本仓库同时提供完整源码包与源码目录。
+
 ## 这一版改了什么
 
 - 白色主界面与分类设置；保留图片导入、拖入背景、模糊、亮度和透明度设置。
